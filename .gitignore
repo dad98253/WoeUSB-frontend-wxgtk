@@ -37,3 +37,7 @@ Makefile.in
 
 ## Gettext compiled message catalogs
 *.mo
+
+## more annoying junk files
+configure~
+src/config.hpp.in~
